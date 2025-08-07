@@ -19,3 +19,9 @@
 char name[20]="AmalDev";
 ```
 
+
+- [ ] life
+- [x] code
+- [ ] job
+
+
